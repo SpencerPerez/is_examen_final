@@ -1,6 +1,6 @@
 package gt.edu.umg.ingenieria.sistemas.is.examenfinal.sort.bubble;
 
-import org.unit.*;
+import org.junit.*;
 
 import static org.junit.Assert.*;
 
